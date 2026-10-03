@@ -3,5 +3,6 @@ preciso comprar
 martelo
 prego
 parafuso
+martelo
 
 essa é minha lista
